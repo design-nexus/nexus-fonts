@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Name=Fonts
+GenericName=Font Manager
+Comment=Browse, preview and install Google Fonts and Nerd Fonts
+Exec=fonts
+Icon=io.github.design_nexus.Fonts
+Terminal=false
+Categories=Utility;GTK;
+Keywords=font;fonts;typeface;google;nerd;install;preview;
+StartupNotify=true
+StartupWMClass=io.github.design_nexus.Fonts
+SingleMainWindow=true
+DBusActivatable=false
